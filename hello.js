@@ -1,2 +1,2 @@
-alert('hello');
-alert('coucou');
+var message = 'hello', i = 0;
+alert(message);
