@@ -1,5 +1,6 @@
 function a(){
-	return 'a';
+	var letter  = 'a';
+	return letter;
 }
 
 function b(){
