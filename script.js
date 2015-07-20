@@ -1,5 +1,5 @@
 function a(){
-	var letter  = 'a';
+	var letter  = 'AAA';
 	return letter;
 }
 
